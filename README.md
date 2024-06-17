@@ -3,7 +3,7 @@
 
 🏝 I'm from Florianópolis<br/>
 💻 I work with IT support<br/>
-🎓 Learning: Frontend, Android, and Python<br/>
+🎓 Learning: Python<br/>
 👨🏾‍💻 I long to become DEV one day
 
 <div>
